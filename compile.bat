@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=img\logo.ico --add-data "config;config" --add-data "html;html" --add-data "img;img" etranslator.py
